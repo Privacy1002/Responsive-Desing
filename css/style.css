@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img_1{
+    width: 157px;
+    height: 230px;
+    padding: 2px;
+    border-radius: 10px;
+    border: solid 3px rgb(24, 79, 75);
+}
+ .imagen1 {
+    text-align: center;
+    display:inline-block;
+ }
+
+ .contenido {
+    justify-content: center;
+    display:inline-block;
+    
+}
